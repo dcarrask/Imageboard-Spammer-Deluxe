@@ -1,5 +1,15 @@
-Imageboard Spammer Deluxe is an extensive imageboard spammer, written in Python. It currently only supports Kusaba. Support for other imageboards will be added in the future.
+Imageboard Spammer Deluxe is an extensive imageboard spammer, written in Python. It currently only supports Kusaba (technically Kusaba X, but I'm calling it Kusaba). Support for other imageboards will be added in the future.
+
+Python 2.5-2.7 required. No support will be added for Python 3+.
+
+Should work on Windows, Linux, and OS X. Only dependencies are a few Python modules, which I will include.
 
 "Imageboard Spammer Deluxe" is probably a placeholder name.
 
 This will be updated soon.
+
+UPDATE:
+
+Still editing and testing things. Way too many features. I'll commit everything soon, I swear.
+
+Everything should be fully compatible with 
