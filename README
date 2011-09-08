@@ -1,13 +1,20 @@
 Imageboard Spammer Deluxe is an extensive imageboard spammer, written in Python. It currently only supports Kusaba (technically Kusaba X, but I'm calling it Kusaba). Support for other imageboards will be added in the future.
 
+Numerous different modes and sub-modes are included, and more will be added in the future. Who says spamming can't be fun?
+
 Python 2.5-2.7 required. No support will be added for Python 3+.
 
-Should work on Windows, Linux, and OS X. Only dependencies are a few Python modules, which I will include.
+***DEPENDENCIES***
+Only dependencies are a few Python modules, most of which are included. The required modules are "SocksiPy" (socks.py), "poster", "TorCtl" and "TorUtil", and "lxml." lxml will have to be installed separately, as it is platform-dependent.
+
+lxml is platform dependent and could not be included. Download it here: http://lxml.de/installation.html
+
+
+Should support Windows, Linux, and OS X. Tell me if it doesn't, as most of the testing was performed on Windows.
+
+
+Included are also a handful of Python "modules" (if they can even be called that) I hacked together myself. They are required to use all the modes of the Spammer, but also I think could be useful for other purposes. Feel free to use them to your liking, or to fork/make suggestions for those modules specifically.
+
+I especially want to make the MarkovSentences module as fine-tuned as possible, to create messages that are as intelligent and original as can be.
 
 "Imageboard Spammer Deluxe" is probably a placeholder name.
-
-This will be updated soon.
-
-UPDATE:
-
-Still editing and testing things. Way too many features. I'll commit everything soon, I swear. 
